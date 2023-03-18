@@ -49,13 +49,13 @@ C大调音阶 ................................................(霍曼)
 
 歌曲：
 
-ScarboroughFair...................................... (PaulSimon)
+Scarborough Fair...................................... (PaulSimon)
 
-YesterdayOnceMore...................................(R.Carpenter) 
+Yesterday Once More...................................(R. Carpenter) 
 
-SoundOfSilence..................................(Simon&Garfunkel) 
+Sound Of Silence..................................(Simon & Garfunkel) 
 
-FiveHundredMiles .....................................(HedyWest)
+Five Hundred Miles .....................................(Hedy West)
 
 送别....................................................(奥德威)
 
