@@ -1,4 +1,4 @@
-# Music Score set
+# Music Score Collection
 我收集的一些乐谱(五线谱)，并把她们汇编整理成一个小册子。
 
 还在附录中加入了简单乐理：
