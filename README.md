@@ -1,5 +1,5 @@
 # Music Score Collection
-我收集的一些乐谱(五线谱)，并把她们汇编整理成一个小册子。
+我收集到的一些乐谱(五线谱)，并把她们汇编整理成这个小册子。
 
 还在附录中加入了简单乐理：
 
@@ -11,9 +11,13 @@
 
 适合玩小提琴和14孔半音阶口琴的初学者。
 
-本书内容不定期更新...
+本书将不定期更新... 最新版本为: v2.8-beta.
 
-当前版本的目录：
+下载乐谱集和所含MIDI文件[点击这里 score_set-main.zip](https://codeload.github.com/shuhenglee/score_set/zip/refs/heads/main)
+
+仅下载乐谱集[点击这里 score_set.pdf](https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf)
+
+当前版本的目录 
 
 Contents：
 
