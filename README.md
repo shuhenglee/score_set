@@ -20,8 +20,8 @@
 
 ### 民歌
 
-| Title | MIDI下载 ｜
-| :---: |  :---:  |
+| Title | MIDI下载  ｜
+| :---: |  :---:   |
 | 五月之歌 | [May-Song.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/May-Song.midi) | 
 | 红河谷 | [红河谷.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/红河谷.midi) |
 | 夏日最后一朵玫瑰 | [夏日最后一朵玫瑰.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/夏日最后一朵玫瑰.midi) |
@@ -31,7 +31,7 @@
 
 ### 古典
 
-| Title | Composer | MIDI下载 ｜
+| Title | Composer | MIDI下载  ｜
 | :---: |  :---:  |  :---:  |
 | 摇篮曲 | 舒伯特 | [Lullaby-舒伯特.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Lullaby-舒伯特.midi) |
 | 摇篮曲 | 勃拉姆斯 | [Lullaby-勃拉姆斯.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Lullaby-勃拉姆斯.midi) |
@@ -41,7 +41,7 @@
 | 四季歌 | 荒木丰久 | [四季歌.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/四季歌.midi) |
 | 合唱—选自清唱剧《犹大 · 马加比》| 亨德尔 | [合唱选自清唱剧犹大_马加比.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/合唱选自清唱剧犹大_马加比.midi) |
 | 两个掷弹兵 | 舒曼 | [The-Two-Grenadiers.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/The-Two-Grenadiers.midi) |
-| 布列舞曲(Bourrée) | 亨德尔 | [布列舞曲-亨德尔.midi] (https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/布列舞曲-亨德尔.midi) |
+| 布列舞曲(Bourrée) | 亨德尔 | [布列舞曲-亨德尔.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/布列舞曲-亨德尔.midi) |
 | 第二号小步舞曲 | Bach | [第二号小步舞曲.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/第二号小步舞曲.midi) |
 | 女巫之舞 (主题) | Paganini | [女巫之舞-主题.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/女巫之舞-主题.midi) |
 | 加沃特舞曲 | Gossec | [Gavotte.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Gavotte.midi) |
@@ -49,7 +49,7 @@
 
 ### 歌曲
 
-| Title | Composer | MIDI下载 ｜
+| Title | Composer | MIDI下载  ｜
 | :---: |  :---:  |  :---:  |
 | Scarborough Fair | Paul Simon | [Scarborough-Fair.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Scarborough-Fair.midi) |
 |Yesterday Once More | R. Carpenter | [Yesterday-Once-More.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Yesterday-Once-More.midi) | 
@@ -65,5 +65,5 @@
 | 土拨鼠  | Beethoven | [土拨鼠.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/土拨鼠.midi) |
 
 ### 附录
-A.1大调与自然小调
-A.2音乐术语表(Italian Musical Terms)
+- A.1大调与自然小调
+- A.2音乐术语表(Italian Musical Terms)
