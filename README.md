@@ -23,7 +23,7 @@
 
 ### 民歌
 
-| Title | MIDI ｜
+| Title | MIDI下载 |
 | :---: | :---: |
 | 五月之歌 | [May-Song.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/May-Song.midi) | 
 | 红河谷 | [红河谷.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/红河谷.midi) |
@@ -34,7 +34,7 @@
 
 ### 古典
 
-| Title | Composer | MIDI ｜
+| Title | Composer | MIDI下载 ｜
 | :---: | :---: | :---: |
 | 摇篮曲 | 舒伯特 | [Lullaby-舒伯特.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Lullaby-舒伯特.midi) |
 | 摇篮曲 | 勃拉姆斯 | [Lullaby-勃拉姆斯.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Lullaby-勃拉姆斯.midi) |
@@ -52,7 +52,7 @@
 
 ### 歌曲
 
-| Title | Composer | MIDI ｜
+| Title | Composer | MIDI下载 ｜
 | :---: | :---: | :---: |
 | Scarborough Fair | Paul Simon | [Scarborough-Fair.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Scarborough-Fair.midi) |
 |Yesterday Once More | R. Carpenter | [Yesterday-Once-More.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Yesterday-Once-More.midi) | 
