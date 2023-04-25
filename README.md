@@ -14,6 +14,10 @@
 本书将不定期更新...  
 最新版本为: v2.8-beta.
 
+| foo | bar |
+| --- | --- |
+| baz | bim |
+
 ## 下载
 - 下载乐谱集和所含MIDI文件[点击这里 score_set-main.zip](https://codeload.github.com/shuhenglee/score_set/zip/refs/heads/main)
 - 仅下载乐谱集[点击这里 score_set.pdf](https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf)
