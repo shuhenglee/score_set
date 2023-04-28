@@ -12,7 +12,7 @@
 
 ## 最新版本
 本书将不定期更新...  
-最新版本为: v2.8-beta.
+最新版本为: v2.9-beta.
 
 
 ## 下载
@@ -50,6 +50,7 @@
 | 女巫之舞 (主题) | Paganini | [女巫之舞-主题.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/女巫之舞-主题.midi) |
 | 加沃特舞曲 | Gossec | [Gavotte.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Gavotte.midi) |
 | 猎人的合唱 | Weber | [Hunters-Chorus.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Hunters-Chorus.midi) |
+| 梦幻曲 | R. Schumann | [Dreaming.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Dreaming.midi) |
 
 ### 歌曲
 
