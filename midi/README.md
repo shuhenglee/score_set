@@ -13,6 +13,8 @@
 | 小红帽 | [小红帽.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/小红帽.midi) |
 | 友谊地久天长 | [友谊地久天长.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/友谊地久天长.midi) | 
 | 茉莉花 | [茉莉花.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/茉莉花.midi) |
+| 步步高 | [步步高.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/步步高.midi) |
+| 金蛇狂舞 | [金蛇狂舞.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/金蛇狂舞.midi) |
 
 ### 古典
 
@@ -49,3 +51,5 @@
 | 鬼迷心窍 |  李宗盛 | [鬼迷心窍.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/鬼迷心窍.midi) |
 | 雪绒花 | Rodgers | [Edelweiss.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Edelweiss.midi) |
 | 土拨鼠  | Beethoven | [土拨鼠.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/土拨鼠.midi) |
+| 乡间小路 | 叶佳修 | [乡间小路.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/乡间小路.midi) |
+| 铁血丹心 | 顾嘉辉 | [铁血丹心.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/铁血丹心.midi)
