@@ -15,9 +15,9 @@
 | 茉莉花 | [茉莉花.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/茉莉花.midi) |
 | 步步高 | [步步高.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/步步高.midi) |
 | 金蛇狂舞 | [金蛇狂舞.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/金蛇狂舞.midi) |
-| 花儿与少年 | [金蛇狂舞.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/花儿与少年.midi) |
-| 铃儿响叮当 | [金蛇狂舞.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/铃儿响叮当.midi) |
-| 苏武牧羊 | [金蛇狂舞.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/苏武牧羊.midi) |
+| 花儿与少年 | [花儿与少年.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/花儿与少年.midi) |
+| 铃儿响叮当 | [铃儿响叮当.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/铃儿响叮当.midi) |
+| 苏武牧羊 | [苏武牧羊.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/苏武牧羊.midi) |
 
 ### 古典
 
