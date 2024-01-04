@@ -34,6 +34,9 @@
 | 茉莉花 | [茉莉花.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/茉莉花.midi) |
 | 步步高 | [步步高.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/步步高.midi) |
 | 金蛇狂舞 | [金蛇狂舞.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/金蛇狂舞.midi) |
+| 花儿与少年 | [花儿与少年.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/花儿与少年.midi) |
+| 铃儿响叮当 | [铃儿响叮当.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/铃儿响叮当.midi) |
+| 苏武牧羊 | [苏武牧羊.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/苏武牧羊.midi) |
 
 ### 古典
 
@@ -53,6 +56,8 @@
 | 加沃特舞曲 | Gossec | [Gavotte.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Gavotte.midi) |
 | 猎人的合唱 | Weber | [Hunters-Chorus.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Hunters-Chorus.midi) |
 | 梦幻曲 | R. Schumann | [Dreaming.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Dreaming.midi) |
+| 小天鹅舞曲 | Tchaikovsky | [小天鹅舞曲.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/小天鹅舞曲.midi) |
+| 天鹅 | C.Saint-Saëns | [天鹅.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/天鹅.midi) |
 
 ### 歌曲
 
