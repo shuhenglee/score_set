@@ -40,6 +40,7 @@
 | 梦幻曲 | R. Schumann | [Dreaming.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/Dreaming.midi) |
 | 小天鹅舞曲 | Tchaikovsky | [小天鹅舞曲.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/小天鹅舞曲.midi) |
 | 天鹅 | C.Saint-Saëns | [天鹅.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/天鹅.midi) |
+| 天国精灵舞曲 | 格鲁克 | [天国精灵舞曲.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/天国精灵舞曲.midi) |
 
 ### 歌曲
 
