@@ -42,6 +42,7 @@
 | 天鹅 | C.Saint-Saëns | [天鹅.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/天鹅.midi) |
 | 天国精灵舞曲 | 格鲁克 | [天国精灵舞曲.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/天国精灵舞曲.midi) |
 | 萨拉班德舞曲 | 格鲁克 | [萨拉班德舞曲.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/萨拉班德舞曲.midi) |
+| 广板 | 亨德尔 | [广板.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/广板.midi) |
 
 ### 歌曲
 
