@@ -39,6 +39,8 @@
 | 铃儿响叮当 | [铃儿响叮当.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/铃儿响叮当.midi) |
 | 苏武牧羊 | [苏武牧羊.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/苏武牧羊.midi) |
 | 红沙拉帆 | [红沙拉帆.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/红沙拉帆.midi) |
+| 摇篮曲 | [摇篮曲-东北民歌.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/摇篮曲-东北民歌.midi) |
+| 捉泥鳅 | [捉泥鳅.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/捉泥鳅.midi) |
 
 ### 古典
 
