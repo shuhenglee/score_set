@@ -41,6 +41,7 @@
 | 红沙拉帆 | [红沙拉帆.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/红沙拉帆.midi) |
 | 摇篮曲 | [摇篮曲-东北民歌.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/摇篮曲-东北民歌.midi) |
 | 捉泥鳅 | [捉泥鳅.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/捉泥鳅.midi) |
+| 在那遥远的地方 | [在那遥远的地方.midi](https://raw.githubusercontent.com/shuhenglee/score_set/main/midi/在那遥远的地方.midi) |
 
 ### 古典
 
