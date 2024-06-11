@@ -19,6 +19,7 @@
 ## 下载
 - 下载乐谱集和所含MIDI文件[点击这里 score_set-main.zip](https://codeload.github.com/shuhenglee/score_set/zip/refs/heads/main)
 - 仅下载乐谱集[点击这里 score_set.pdf](https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf)
+- LaTeX源码下载[点击这里](https://github.com/shuhenglee/tex_score_set)
 
 ## 当前版本目录及所包含曲目和MIDI 
 > 在一些系统上，中文名称的文件下载之后可能出现文件名是乱码的情况，把文件名改成正确的即可。
